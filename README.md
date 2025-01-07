@@ -1,1 +1,2 @@
-# My_First_Repo
+# My First Repository
+This is my first repo. Learning Git.
